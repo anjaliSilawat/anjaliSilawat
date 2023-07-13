@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anjali Silawat</h1>
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+<img src="https://www.canva.com/design/DAFof58UAt4/Lh1wmBbT1A7HoQWK5TQfaQ/edit?utm_content=DAFof58UAt4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" />
 
 <img align="right" alt="Coding" width="400"  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzh1cHFyMXQwNGY1Y2EyMjJoczJwaGxidDc1d3lxNjA0c2kzaDVyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" >
 
